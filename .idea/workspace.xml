@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b206b89-20f6-4a32-a8b3-b37ea82fedf2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,22 +79,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610285117803</updated>
-      <workItem from="1610285122637" duration="1455000" />
+      <workItem from="1610285122637" duration="1857000" />
     </task>
+    <task id="LOCAL-00001" summary="git演示">
+      <created>1610286945417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610286945417</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git演示" />
+    <option name="LAST_COMMIT_MESSAGE" value="git演示" />
   </component>
   <component name="WindowStateProjectService">
     <state x="716" y="94" key="#Project_Structure" timestamp="1610285741212">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="716" y="94" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1610285741212" />
-    <state x="555" y="45" key="CommitChangelistDialog2" timestamp="1610286913704">
+    <state x="555" y="45" key="CommitChangelistDialog2" timestamp="1610287273630">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="555" y="45" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610286913704" />
+    <state x="555" y="45" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610287273630" />
     <state x="665" y="311" width="273" height="220" key="Github.ShareDialog" timestamp="1610285898075">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
